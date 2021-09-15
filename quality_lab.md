@@ -9,3 +9,6 @@ Zelda BotW
 Bioshock 1
 - Story, I enjoy the mystery/ twist to the motivation of the story.
 - Gameplay, I enjoy the mulitple endings factor.
+
+
+-length, -format, -argument, -- evidence/counter, - clarity
