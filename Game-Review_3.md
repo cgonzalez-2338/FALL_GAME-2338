@@ -1,4 +1,4 @@
-# Game Review for (GAME TITLE)
+# Game Review for "The Legend of Zelda: The Minish Cap"
 
 ## Details
 
