@@ -1,4 +1,4 @@
-# Game Review for (GAME TITLE)
+# Game Review for Pokemon Quest
 
 ## Details
 
