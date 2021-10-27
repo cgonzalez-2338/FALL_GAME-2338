@@ -4,12 +4,11 @@
 
 ### Game Title
 
-The name of the game, subtitle, and the URL or information on how to find
-the game.
+Gwent: The Witcher Card Game avaliable on Xbox, Playstation4, PC, Android, and iPhone.
 
 ### Rating
 
-Insert your own rating.
+★★★☆☆
 Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
 
 ## Summary
