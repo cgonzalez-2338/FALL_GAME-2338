@@ -4,12 +4,11 @@
 
 ### Game Title
 
-The name of the game, subtitle, and the URL or information on how to find
-the game.
+BioShock 2 avaliable on avaliable on Xbox, PlayStation 3, and PC.
 
 ### Rating
 
-Insert your own rating.
+★★★★★
 Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
 
 ## Summary
