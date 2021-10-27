@@ -4,13 +4,13 @@
 
 ### Game Title
 
-The name of the game, subtitle, and the URL or information on how to find
-the game.
+Pokemon Quest available on Nintendo Switch and Mobile(Android and iOS)
 
 ### Rating
 
-Insert your own rating.
-Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+★★★☆☆ 
+I rate this game 3 out of 5 stars
+
 
 ## Summary
 
@@ -28,4 +28,6 @@ paragraph.
 
 ## Additional Information
 
-Links to other reviews or other information you used in this review.
+https://pokemonquest.pokemon.com/en-us/
+
+https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Quest#:~:text=The%20game%20is%20set%20on,for%20cooking%2C%20and%20other%20treasures
