@@ -4,12 +4,11 @@
 
 ### Game Title
 
-The name of the game, subtitle, and the URL or information on how to find
-the game.
+The Legend of Zelda: The Minish Cap avaliable on Gameboy, Nintendo 3DS, and Nintendo WiiU
 
 ### Rating
 
-Insert your own rating.
+★★★★☆ 
 Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
 
 ## Summary
@@ -28,4 +27,8 @@ paragraph.
 
 ## Additional Information
 
-Links to other reviews or other information you used in this review.
+https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Minish_Cap
+
+https://zelda.fandom.com/wiki/The_Legend_of_Zelda:_The_Minish_Cap
+
+https://www.ign.com/games/the-legend-of-zelda-the-minish-cap
