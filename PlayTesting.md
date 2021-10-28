@@ -1,8 +1,8 @@
-# Playtest for [Game Title]
+# Playtest for Call of Cthulhu
 
-* Game Publisher
-* Game Rating
-* [Game Title Website](http://example.com)
+* Focus Entertainment
+* IGN rated: 8.6/10
+* [Call of Cthulhu](https://www.focus-entmt.com/en-us/games/call-of-cthulhu)
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
 > _Answer:_ Your answer here
