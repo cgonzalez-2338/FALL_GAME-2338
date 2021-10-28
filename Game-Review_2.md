@@ -14,17 +14,12 @@ I rate this game 3 out of 5 stars
 
 ## Summary
 
-This game is about... this should be at least 3-4 paragraphs summarizing the
-game play mechanics of the game. You should be answering the who, what,
-when, where, why, and how of the game itself.
+The game "Pokemon Quest" is about taking your pokemon team and exploring Tumblecube Island. Pokemon Quest is an action-adventure game, the goal is to explore the island and collect loot as well as recrute other pokemon on the island and train to make your team stronger. The game has different types of quests as well, they have "Main Quests" which are for the story mode, and "Challange Quests" which are extra quests that reward the player for completeing a set of tasks.
+You can clear stages and face boss pokemon that will also help your progression and help with leveling up your team. 
 
 ## Final Thoughts
 
-Describe in as much detail as possible what you did and didn't enjoy about the
-game and list out your reasons why. Remember this is a review and thus should
-stand up to some criticism when making your reasons why you thought this way
-about particular features of the game. This should be at a minimum of 1
-paragraph.
+Overall the game is cute and fun, it's a good way to pass the time if you're playing on moblie. Might not be as fun playing on the Nintendo switch since it is a free to play, so there are of course microtransactions included. I only see those being bad for the game experience if you leave a child unattended, or if you're an impatient adult with some cash to spare. 
 
 ## Additional Information
 
