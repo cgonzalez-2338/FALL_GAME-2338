@@ -13,6 +13,7 @@ Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
 
 ## Summary
 
+This is another tale from the legend of Zelda series. You play as Link, a hylian boy that turns out to be the hero. The king chooses link to help against the villan Vaati. Whom used to be apart of the "Minish" people. (basically jsut tiny fairy-like people) Until he was corrupted by the power of a Wizard's hat that was created by his master, originally a gift for the king. Vaati crashes the begining festival and destroys the legendary sword, as well as turning Princess Zelda into stone and plans on using her essance to make himself more powerful. 
 This game is about... this should be at least 3-4 paragraphs summarizing the
 game play mechanics of the game. You should be answering the who, what,
 when, where, why, and how of the game itself.
