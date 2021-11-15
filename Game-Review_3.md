@@ -13,18 +13,10 @@ Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
 
 ## Summary
 
-This is another tale from the legend of Zelda series. You play as Link, a hylian boy that turns out to be the hero. The king chooses link to help against the villan Vaati. Whom used to be apart of the "Minish" people. (basically jsut tiny fairy-like people) Until he was corrupted by the power of a Wizard's hat that was created by his master, originally a gift for the king. Vaati crashes the begining festival and destroys the legendary sword, as well as turning Princess Zelda into stone and plans on using her essance to make himself more powerful. 
-This game is about... this should be at least 3-4 paragraphs summarizing the
-game play mechanics of the game. You should be answering the who, what,
-when, where, why, and how of the game itself.
+This is another tale from the legend of Zelda series. You play as Link, a hylian boy that turns out to be the hero. The king chooses link to help against the villain Vaati. Whom used to be apart of the "Minish" people. (basically, just tiny fairy-like people) Until he was corrupted by the power of a Wizard's hat that was created by his master, originally a gift for the king. Vaati crashes the beginning festival and destroys the legendary sword, as well as turning Princess Zelda into stone and plans on using her essence to make himself more powerful. Link must travel through dungeons and obtain items that will help him save Zelda and defeat Vaati.
 
 ## Final Thoughts
-
-Describe in as much detail as possible what you did and didn't enjoy about the
-game and list out your reasons why. Remember this is a review and thus should
-stand up to some criticism when making your reasons why you thought this way
-about particular features of the game. This should be at a minimum of 1
-paragraph.
+I've always had a special place in my heart for almost all Zelda games. Even though this one isn't as popular as the main ones (OoT, MM, BoTW, SS) its still a nice and fun game to play. Its not a hard game, you may get stuck somewhere but the solution presents itself pretty quickly. There are fun sidequests that have you develop connections with the characters you meet along the way and the whole game including the story is just a fun time.
 
 ## Additional Information
 
