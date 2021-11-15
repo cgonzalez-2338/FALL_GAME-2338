@@ -9,7 +9,7 @@ The Legend of Zelda: The Minish Cap avaliable on Gameboy, Nintendo 3DS, and Nint
 ### Rating
 
 ★★★★☆ 
-I rate games from 1 to 5 stars and I give this game a 3 star rating.
+4.5 out of 5 star rating
 
 ## Summary
 
