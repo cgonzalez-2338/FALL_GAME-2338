@@ -17,7 +17,7 @@ Bioshock 2 is the sequel to BioShock, continuing the story in the underwater cit
 
 ## Final Thoughts
 
-Bioshock 2 was my experience with the Bioshock series. I feel I connect with it on some story parts that remind me of personal experiences I've had reguarding my parents. The story touches home for me and its very immersive. From the scenery of just being under the surface, in the sea, to the characters that either aid or hunt you,
+Bioshock 2 was my experience with the Bioshock series. I feel I connect with it on some story parts that remind me of personal experiences I've had reguarding my parents. The story touches home for me and its very immersive. From the scenery of just being under the surface, in the sea, to the characters that either aid or hunt you, and even the weapons given to you.
 
 ## Additional Information
 
