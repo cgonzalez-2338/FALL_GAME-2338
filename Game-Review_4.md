@@ -21,4 +21,5 @@ Bioshock 2 was my experience with the Bioshock series. I feel I connect with it 
 
 ## Additional Information
 
-Links to other reviews or other information you used in this review.
+https://www.ign.com/games/bioshock-2
+https://en.wikipedia.org/wiki/BioShock_2
