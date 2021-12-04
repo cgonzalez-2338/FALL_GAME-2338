@@ -9,7 +9,7 @@ Gwent: The Witcher Card Game avaliable on Xbox, Playstation4, PC, Android, and i
 ### Rating
 
 ★★★☆☆
-Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+I rate this game 3 out of 5 stars.
 
 ## Summary
 Gwent is a two player, one on one, turn-based card game. Each player has 10 cards in hand from their deck of 25 cards, and place only one card per turn. The goal of the game is to have more points than the opposite player on the board. There are many different play styles you can do based on what cards you choose during a match. There are six group catigories that you can choose your cards from. Their factors also contribute on your possible play style for a game.
