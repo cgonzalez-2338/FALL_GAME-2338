@@ -12,19 +12,14 @@ Gwent: The Witcher Card Game avaliable on Xbox, Playstation4, PC, Android, and i
 Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
 
 ## Summary
-
-This game is about... this should be at least 3-4 paragraphs summarizing the
-game play mechanics of the game. You should be answering the who, what,
-when, where, why, and how of the game itself.
+Gwent is a two player, one on one, turn-based card game. Each player has 10 cards in hand from their deck of 25 cards, and place only one card per turn. The goal of the game is to have more points than the opposite player on the board. There are many different play styles you can do based on what cards you choose during a match. There are six group catigories that you can choose your cards from. Their factors also contribute on your possible play style for a game.
 
 ## Final Thoughts
 
-Describe in as much detail as possible what you did and didn't enjoy about the
-game and list out your reasons why. Remember this is a review and thus should
-stand up to some criticism when making your reasons why you thought this way
-about particular features of the game. This should be at a minimum of 1
-paragraph.
+Gwent is the only card game I've genuinly enjoyed upon my first playthrogh. Even though I was first introduced to gwent as a mini game from Witch 3 when I found out it was getting its own individual game, I knew I would enjoy it! I enjoy that it's mostly based on skill and the goal isn't complicated, it's just to have more points than the other person.
 
 ## Additional Information
 
-Links to other reviews or other information you used in this review.
+https://www.ign.com/games/gwent
+
+https://www.playgwent.com/en
